@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Tests](https://github.com/DemianRom/ml-interview-prep/actions/workflows/tests.yml/badge.svg)
+![Tests](https://github.com/DemianRom/applied-ml-portfolio/actions/workflows/tests.yml/badge.svg)
 
 ---
 
