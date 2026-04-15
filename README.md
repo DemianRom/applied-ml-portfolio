@@ -2,14 +2,14 @@
 ### by Demian Romero Bautista - ISC - ESCOM
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Tests](https://github.com/DemianRom/ml-interview-prep/actions/workflows/tests.yml/badge.svg)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![Tests](https://github.com/DemianRom/ml-interview-prep/actions/workflows/tests.yml/badge.svg)
 
 ---
 
 ## ¿Por qué existe este repo?
 
-oy Demian Romero Bautista, estudiante de Ingeniería en Sistemas Computacionales en el IPN — ESCOM, especializándome en Inteligencia Artificial, Ciencia de Datos y su análisis. Construí este repositorio para estructurar mi preparación hacia entrevistas técnicas de forma seria y documentada. Cada solución incluye mi proceso de pensamiento, análisis de complejidad y casos borde — no es un dump de respuestas, es un registro de cómo aprendo y resuelvo problemas.
+Soy Demian Romero Bautista, estudiante de Ingeniería en Sistemas Computacionales en el IPN — ESCOM, especializándome en Inteligencia Artificial, Ciencia de Datos y su análisis. Construí este repositorio para estructurar mi preparación hacia entrevistas técnicas de forma seria y documentada. Cada solución incluye mi proceso de pensamiento, análisis de complejidad y casos borde — no es un dump de respuestas, es un registro de cómo aprendo y resuelvo problemas.
 
 El enfoque está en tres cosas:
 
